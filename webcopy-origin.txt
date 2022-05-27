@@ -1,0 +1,600 @@
+Uri: https://mc.yandex.ru/watch/88158577
+File Name: C:\Downloaded Web Sites\uppetit.info\watch\88158577
+Content Type: image/gif
+
+Uri: https://stat.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-catalog-1.1.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-catalog-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\uppetit.info\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-catalog-1.1.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-catalog-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-map-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-products-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-products-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-processor-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-video-processor-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-zero-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3030-3537-4137-b734-363832373839/-/resizeb/20x/IMG_6661.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3030-3537-4137-b734-363832373839\-\resizeb\20x\IMG_6661.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3030-6431-4363-b666-303230313264/-/resizeb/20x/IMG_6029.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3030-6431-4363-b666-303230313264\-\resizeb\20x\IMG_6029.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3036-3938-4439-b438-616231363534/-/resizeb/20x/__2.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3036-3938-4439-b438-616231363534\-\resizeb\20x\__2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3063-3237-4363-a162-646531633734/LOGO_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3063-3237-4363-a162-646531633734\LOGO_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3131-3032-4136-a163-343262663436/-/resizeb/20x/IMG_6418.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3131-3032-4136-a163-343262663436\-\resizeb\20x\IMG_6418.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3131-3866-4466-b734-316531663764/-/resizeb/20x/IMG_6463.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3131-3866-4466-b734-316531663764\-\resizeb\20x\IMG_6463.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3131-6230-4163-b334-653830366264/-/empty/image.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3131-6230-4163-b334-653830366264\-\empty\image.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3132-3232-4538-b461-363866656264/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3132-3232-4538-b461-363866656264\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3132-6265-4235-a239-343136633564/LOGO.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3132-6265-4235-a239-343136633564\LOGO.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3137-3933-4565-b931-613034303032/-/resizeb/20x/9.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3137-3933-4565-b931-613034303032\-\resizeb\20x\9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3139-3530-4034-b733-373239376563/-/resizeb/20x/IMG_6418.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3139-3530-4034-b733-373239376563\-\resizeb\20x\IMG_6418.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3164-3863-4630-b233-316264306532/-/resize/20x/Uppetit_interior_049.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3164-3863-4630-b233-316264306532\-\resize\20x\Uppetit_interior_049.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3231-3064-4435-b965-373830623566/-/resizeb/20x/Uppetit_interior_292.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3231-3064-4435-b965-373830623566\-\resizeb\20x\Uppetit_interior_292.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3234-3766-4561-b235-396237363234/noroot.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3234-3766-4561-b235-396237363234\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3235-3363-4130-a439-356231366636/-/resizeb/20x/IMG_6589.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3235-3363-4130-a439-356231366636\-\resizeb\20x\IMG_6589.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3235-6263-4536-b738-396233376232/-/resizeb/20x/Uppetit_interior_292.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3235-6263-4536-b738-396233376232\-\resizeb\20x\Uppetit_interior_292.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3238-6339-4461-b830-336639323366/-/resizeb/20x/5.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3238-6339-4461-b830-336639323366\-\resizeb\20x\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3261-3730-4563-b033-356365613065/-/resizeb/20x/IMG_6493.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3261-3730-4563-b033-356365613065\-\resizeb\20x\IMG_6493.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3264-3436-4362-b139-366534393236/-/resizeb/20x/Uppetit_interior_127.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3264-3436-4362-b139-366534393236\-\resizeb\20x\Uppetit_interior_127.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3266-3532-4663-a438-343463353134/-/resize/20x/IMG_9502_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3266-3532-4663-a438-343463353134\-\resize\20x\IMG_9502_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3266-3564-4266-b739-353431316663/-/resizeb/20x/10.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3266-3564-4266-b739-353431316663\-\resizeb\20x\10.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3334-6163-4864-b334-363363356266/-/resizeb/20x/4_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3334-6163-4864-b334-363363356266\-\resizeb\20x\4_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3335-3931-4634-b435-336338396130/-/empty/_53.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3335-3931-4634-b435-336338396130\-\empty\_53.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3339-3436-4433-b461-356261333731/-/resizeb/20x/Tussons_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3339-3436-4433-b461-356261333731\-\resizeb\20x\Tussons_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-3464-4339-a634-313736633466/-/resizeb/20x/Uppetit_interior_127.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3361-3464-4339-a634-313736633466\-\resizeb\20x\Uppetit_interior_127.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3364-6135-4539-b236-306339323534/-/resizeb/20x/IMG_6561.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3364-6135-4539-b236-306339323534\-\resizeb\20x\IMG_6561.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3433-6439-4633-a635-633137343362/-/resizeb/20x/IMG_6493_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3433-6439-4633-a635-633137343362\-\resizeb\20x\IMG_6493_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3437-6461-4739-b462-303861373266/-/resize/20x/mob2-v21.gif
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3437-6461-4739-b462-303861373266\-\resize\20x\mob2-v21.gif
+Content Type: image/gif
+
+Uri: https://static.tildacdn.com/tild3438-6133-4935-b136-306530343938/-/resizeb/20x/127_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3438-6133-4935-b136-306530343938\-\resizeb\20x\127_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3461-3739-4365-b838-356232386138/-/resize/20x/photo532368391743535.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3461-3739-4365-b838-356232386138\-\resize\20x\photo532368391743535.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3463-3834-4265-a663-633330633933/LOGO_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3463-3834-4265-a663-633330633933\LOGO_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3466-3638-4230-b531-383431623532/image.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3466-3638-4230-b531-383431623532\image.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3532-3364-4936-a134-643030663963/-/resizeb/20x/IMG_6658.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3532-3364-4936-a134-643030663963\-\resizeb\20x\IMG_6658.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3536-3866-4638-b466-323963663230/-/resize/20x/Uppetit_interior_147.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3536-3866-4638-b466-323963663230\-\resize\20x\Uppetit_interior_147.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3537-6465-4338-b531-343639626332/DINPro-Medium.woff
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3537-6465-4338-b531-343639626332\DINPro-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3539-6161-4239-b464-366532623833/-/resizeb/20x/IMG_6074.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3539-6161-4239-b464-366532623833\-\resizeb\20x\IMG_6074.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3561-3765-4438-b531-346238313431/-/resizeb/20x/IMG_6270.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3561-3765-4438-b531-346238313431\-\resizeb\20x\IMG_6270.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3563-3937-4031-b739-346431343339/-/empty/_4.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3563-3937-4031-b739-346431343339\-\empty\_4.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3635-3231-4732-a265-313339666165/-/resizeb/20x/IMG_6593.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3635-3231-4732-a265-313339666165\-\resizeb\20x\IMG_6593.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3637-3065-4165-a134-626436343435/-/resizeb/20x/11.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3637-3065-4165-a134-626436343435\-\resizeb\20x\11.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3661-6432-4332-b161-343639643130/-/resizeb/20x/IMG_6609.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3661-6432-4332-b161-343639643130\-\resizeb\20x\IMG_6609.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3662-3264-4164-a239-643064643363/-/resizeb/20x/IMG_6469.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3662-3264-4164-a239-643064643363\-\resizeb\20x\IMG_6469.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3665-3261-4263-a431-333537623335/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3665-3261-4263-a431-333537623335\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3730-3664-4735-b363-656439306136/-/empty/_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3730-3664-4735-b363-656439306136\-\empty\_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3735-3036-4465-a231-663534643733/-/resizeb/20x/4F6187AD-EBAA-47A2-B.jpeg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3735-3036-4465-a231-663534643733\-\resizeb\20x\4F6187AD-EBAA-47A2-B.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3739-6539-4637-b665-653039326234/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3739-6539-4637-b665-653039326234\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3831-3565-4730-b831-343031306261/-/resizeb/20x/IMG_6029.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3831-3565-4730-b831-343031306261\-\resizeb\20x\IMG_6029.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3834-6239-4133-b834-303639376562/-/resizeb/20x/IMG_6649.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3834-6239-4133-b834-303639376562\-\resizeb\20x\IMG_6649.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3838-6433-4139-a133-313138323232/-/resizeb/20x/2.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3838-6433-4139-a133-313138323232\-\resizeb\20x\2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3861-3336-4731-a336-393232623464/-/resizeb/20x/IMG_6542.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3861-3336-4731-a336-393232623464\-\resizeb\20x\IMG_6542.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3861-3862-4335-b036-636238623661/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3861-3862-4335-b036-636238623661\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3862-3731-4335-b335-623838306334/-/resizeb/20x/IMG_6418_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3862-3731-4335-b335-623838306334\-\resizeb\20x\IMG_6418_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3862-3963-4031-b538-616434386262/DINPro-Medium.woff
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3862-3963-4031-b538-616434386262\DINPro-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3863-3663-4438-a337-383534393361/-/resizeb/20x/_-1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3863-3663-4438-a337-383534393361\-\resizeb\20x\_-1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3863-6536-4166-b832-663432613139/-/resizeb/20x/2_11.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3863-6536-4166-b832-663432613139\-\resizeb\20x\2_11.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3865-3738-4936-b033-643631643331/-/resizeb/20x/3.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3865-3738-4936-b033-643631643331\-\resizeb\20x\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3866-3232-4563-a663-326436376163/-/resizeb/20x/IMG_6661_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3866-3232-4563-a663-326436376163\-\resizeb\20x\IMG_6661_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3932-3039-4634-a563-303563363836/-/resizeb/20x/IMG_6538.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3932-3039-4634-a563-303563363836\-\resizeb\20x\IMG_6538.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3932-3232-4432-b136-313965313164/-/resizeb/20x/_____335_2.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3932-3232-4432-b136-313965313164\-\resizeb\20x\_____335_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3935-3331-4836-b030-316666636165/-/empty/_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3935-3331-4836-b030-316666636165\-\empty\_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3936-3936-4261-a339-363732613363/-/resizeb/20x/IMG_6593_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3936-3936-4261-a339-363732613363\-\resizeb\20x\IMG_6593_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3961-3634-4138-a235-356435383361/LOGO_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3961-3634-4138-a235-356435383361\LOGO_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3961-3766-4163-b766-316332343234/favicon.ico
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3961-3766-4163-b766-316332343234\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3964-3731-4437-b734-393263666438/-/resizeb/20x/1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3964-3731-4437-b734-393263666438\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3965-3432-4138-b138-383839373130/-/resizeb/20x/IMG_6538.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild3965-3432-4138-b138-383839373130\-\resizeb\20x\IMG_6538.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6130-3361-4562-b966-373735333833/-/resizeb/20x/E174E93E-8806-447B-A.jpeg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6130-3361-4562-b966-373735333833\-\resizeb\20x\E174E93E-8806-447B-A.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6136-3638-4634-b736-343239326566/-/resizeb/20x/IMG_6661.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6136-3638-4634-b736-343239326566\-\resizeb\20x\IMG_6661.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6138-3139-4863-b035-303736316161/-/empty/_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6138-3139-4863-b035-303736316161\-\empty\_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6161-3862-4766-b132-303138386531/-/resizeb/20x/IMG_6467.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6161-3862-4766-b132-303138386531\-\resizeb\20x\IMG_6467.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6163-3834-4633-b361-383132616231/-/empty/1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6163-3834-4633-b361-383132616231\-\empty\1.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6165-6532-4566-b066-636232646333/-/resizeb/20x/IMG_6627.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6165-6532-4566-b066-636232646333\-\resizeb\20x\IMG_6627.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6166-6334-4766-b562-333863666636/-/resizeb/20x/2_2.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6166-6334-4766-b562-333863666636\-\resizeb\20x\2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6231-3261-4866-b337-306233643865/-/resizeb/20x/4_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6231-3261-4866-b337-306233643865\-\resizeb\20x\4_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6231-3532-4538-b935-306230646161/-/resizeb/20x/IMG_6074.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6231-3532-4538-b935-306230646161\-\resizeb\20x\IMG_6074.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6232-3731-4335-a431-386331376164/LOGO_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6232-3731-4335-a431-386331376164\LOGO_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6232-6339-4233-b932-613332353663/-/resizeb/20x/11.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6232-6339-4233-b932-613332353663\-\resizeb\20x\11.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6233-3663-4434-a131-623966383832/-/resizeb/20x/3.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6233-3663-4434-a131-623966383832\-\resizeb\20x\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6235-3062-4538-b632-393264383562/-/resizeb/20x/IMG_6493.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6235-3062-4538-b632-393264383562\-\resizeb\20x\IMG_6493.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6239-3634-4634-b563-613363313533/-/empty/_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6239-3634-4634-b563-613363313533\-\empty\_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6239-3936-4736-b530-353666616534/-/resizeb/20x/__new.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6239-3936-4736-b530-353666616534\-\resizeb\20x\__new.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6239-6462-4737-b339-363936643936/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6239-6462-4737-b339-363936643936\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6264-3162-4235-b633-643562663538/-/resizeb/20x/8.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6264-3162-4235-b633-643562663538\-\resizeb\20x\8.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6332-3837-4161-a137-623039616232/-/resizeb/20x/IMG_6593.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6332-3837-4161-a137-623039616232\-\resizeb\20x\IMG_6593.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6332-6164-4665-a637-323134376365/-/resize/20x/__3.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6332-6164-4665-a637-323134376365\-\resize\20x\__3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6332-6165-4132-a261-316164626336/-/resizeb/20x/3_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6332-6165-4132-a261-316164626336\-\resizeb\20x\3_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6333-3266-4566-a261-613465316635/-/resizeb/20x/IMG_6486.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6333-3266-4566-a261-613465316635\-\resizeb\20x\IMG_6486.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6338-3134-4932-b635-663034386436/-/resizeb/20x/IMG_6433.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6338-3134-4932-b635-663034386436\-\resizeb\20x\IMG_6433.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-3630-4138-b837-336466323734/-/resizeb/20x/1_3.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6339-3630-4138-b837-336466323734\-\resizeb\20x\1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-3833-4931-b565-323238666266/-/resize/20x/IMG_2370_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6339-3833-4931-b565-323238666266\-\resize\20x\IMG_2370_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6361-3032-4134-b862-313537616438/LOGO_1.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6361-3032-4134-b862-313537616438\LOGO_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6362-6265-4137-b339-303235393233/-/resizeb/20x/IMG_6538_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6362-6265-4137-b339-303235393233\-\resizeb\20x\IMG_6538_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6431-3763-4531-a134-356162363931/-/resizeb/20x/2_2.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6431-3763-4531-a134-356162363931\-\resizeb\20x\2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6433-3837-4535-a332-656134353233/-/resizeb/20x/12.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6433-3837-4535-a332-656134353233\-\resizeb\20x\12.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6438-3738-4439-b333-343566313063/-/empty/_.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6438-3738-4439-b333-343566313063\-\empty\_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6438-6564-4637-b538-656563386563/-/resizeb/20x/IMG_6433.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6438-6564-4637-b538-656563386563\-\resizeb\20x\IMG_6433.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6439-3835-4361-b532-373961393934/-/resize/20x/IMG_9053_2.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6439-3835-4361-b532-373961393934\-\resize\20x\IMG_9053_2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6461-6138-4265-a333-386165653535/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6461-6138-4265-a333-386165653535\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6464-6538-4034-a336-643737336464/-/resizeb/20x/IMG_6433_1.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6464-6538-4034-a336-643737336464\-\resizeb\20x\IMG_6433_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6534-6338-4831-b038-313232653435/-/empty/_4.png
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6534-6338-4831-b038-313232653435\-\empty\_4.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6536-3030-4663-a432-373035386661/-/resize/20x/videoplayback-1.gif
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6536-3030-4663-a432-373035386661\-\resize\20x\videoplayback-1.gif
+Content Type: image/gif
+
+Uri: https://static.tildacdn.com/tild6563-3761-4238-a439-353531623135/-/resizeb/20x/__10____5__v2.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6563-3761-4238-a439-353531623135\-\resizeb\20x\__10____5__v2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6631-3436-4466-b763-623261363339/-/resizeb/20x/5.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6631-3436-4466-b763-623261363339\-\resizeb\20x\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6632-3731-4535-b865-613230316537/-/resize/20x/2-3.gif
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6632-3731-4535-b865-613230316537\-\resize\20x\2-3.gif
+Content Type: image/gif
+
+Uri: https://static.tildacdn.com/tild6633-6237-4764-a264-316233323661/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6633-6237-4764-a264-316233323661\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6633-6463-4139-b333-666566383631/-/resizeb/20x/IMG_6498.JPG
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6633-6463-4139-b333-666566383631\-\resizeb\20x\IMG_6498.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6639-6638-4639-a663-623565643839/-/resizeb/20x/____v2.jpg
+File Name: C:\Downloaded Web Sites\uppetit.info\tild6639-6638-4639-a663-623565643839\-\resizeb\20x\____v2.jpg
+Content Type: image/jpeg
+
+Uri: https://unpkg.com/scrollbooster@3.0.2/dist/scrollbooster.min.js
+File Name: C:\Downloaded Web Sites\uppetit.info\scrollbooster@3.0.2\dist\scrollbooster.min.js
+Content Type: application/javascript
+
+Uri: https://uppetit.info/
+File Name: C:\Downloaded Web Sites\uppetit.info\index.htm
+Content Type: text/html
+
+Uri: https://uppetit.info/address
+File Name: C:\Downloaded Web Sites\uppetit.info\address.html
+Content Type: text/html
+
+Uri: https://uppetit.info/contacts
+File Name: C:\Downloaded Web Sites\uppetit.info\contacts.html
+Content Type: text/html
+
+Uri: https://uppetit.info/corppit
+File Name: C:\Downloaded Web Sites\uppetit.info\corppit.html
+Content Type: text/html
+
+Uri: https://uppetit.info/distribution
+File Name: C:\Downloaded Web Sites\uppetit.info\distribution.html
+Content Type: text/html
+
+Uri: https://uppetit.info/eda
+File Name: C:\Downloaded Web Sites\uppetit.info\eda.html
+Content Type: text/html
+
+Uri: https://uppetit.info/franchise
+File Name: C:\Downloaded Web Sites\uppetit.info\franchise.html
+Content Type: text/html
+
+Uri: https://uppetit.info/pomeshenie
+File Name: C:\Downloaded Web Sites\uppetit.info\pomeshenie.html
+Content Type: text/html
+
+Uri: https://uppetit.info/tilda-blocks-2.14.css?t=1652435862
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.14-1.css
+Content Type: text/css
+
+Uri: https://uppetit.info/tilda-blocks-2.14.css?t=1653121389
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.14-2.css
+Content Type: text/css
+
+Uri: https://uppetit.info/tilda-blocks-2.14.css?t=1653121392
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.14-3.css
+Content Type: text/css
+
+Uri: https://uppetit.info/tilda-blocks-2.14.css?t=1653121430
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://uppetit.info/tilda-blocks-2.7.js?t=1652435862
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://uppetit.info/tilda-blocks-2.8.js?t=1653121389
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.8-1.js
+Content Type: application/javascript
+
+Uri: https://uppetit.info/tilda-blocks-2.8.js?t=1653121392
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.8-2.js
+Content Type: application/javascript
+
+Uri: https://uppetit.info/tilda-blocks-2.8.js?t=1653121430
+File Name: C:\Downloaded Web Sites\uppetit.info\tilda-blocks-2.8.js
+Content Type: application/javascript
+
